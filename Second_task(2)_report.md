@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Kolya-Melkov/Second_task-2-/issues/1#issue-936298741
+* https://github.com/Kolya-Melkov/Second_task-2-/issues/2
 
 ## В ходе тестирования переменным regularBonus и specialBonus присваивались определённые значения.
 
